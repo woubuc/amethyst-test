@@ -1,0 +1,18 @@
+[package]
+name = "amethyst-test"
+version = "0.1.0"
+authors = []
+edition = "2018"
+
+[dependencies]
+amethyst = "0.12.0"
+pathfinding = "1.1.12"
+rand = "0.7.0"
+rayon = "*"
+winit = "*"
+
+[features]
+empty = ["amethyst/empty"]
+metal = ["amethyst/metal"]
+vulkan = ["amethyst/vulkan"]
+profiling = []

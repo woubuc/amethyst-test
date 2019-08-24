@@ -1,0 +1,7 @@
+(
+	axes: {
+		"move_horizontal": Emulated(pos: Key(D), neg: Key(Q)),
+		"move_vertical": Emulated(pos: Key(Z), neg: Key(S)),
+	},
+	actions: {}
+)

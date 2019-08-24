@@ -1,0 +1,4 @@
+(
+	title: "Amethyst Test Game",
+	dimensions: Some((1280, 800)),
+)
